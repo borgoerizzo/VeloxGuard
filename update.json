@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 6,
-  "latestVersionName": "1.2.1",
-  "releaseNotes": "obveza update-a app ako je v. za 3 veća od instalirane",
-  "apkUrl": "https://github.com/borgoerizzo/VeloxGuard/releases/download/v1.2.1/app-release.apk"
+  "latestVersionCode": 7,
+  "latestVersionName": "1.3",
+  "releaseNotes": "popravak pregleda u landscape mode-u",
+  "apkUrl": "https://github.com/borgoerizzo/VeloxGuard/releases/download/v1.3/app-release.apk"
 }
